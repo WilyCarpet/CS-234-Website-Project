@@ -5,5 +5,9 @@ This is the login page where I take in a username and password from the user and
 
 ![Alt text](https://github.com/WilyCarpet/CS-234-Website-Project/blob/main/Login%20page.png)
 
+If the password or username entered is incorrect then a pop-up will appear telling the uesr that either username or password entered is incorrect
+
+![Alt Text](https://github.com/WilyCarpet/CS-234-Website-Project/blob/main/Login(wrong%20user%20or%20pass).png)
+
 
 
